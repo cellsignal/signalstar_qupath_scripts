@@ -69,18 +69,6 @@ def transforms = [
         'day_2': two_to_one
 ]
 
-/*
-
-pixel 2
-0.9998725652694702,	-0.009631042368710041,	83.83483565167236,
-0.009617864154279232,	0.9998661279678345,	-106.59623143414308
-
-pixel 1
-0.9998654127120972,	-0.009617438539862633,	83.82299804351807,
-0.009610972367227077,	0.9998781085014343,	-106.60589728472901
-
-*/
-
 // Define an output path where the merged file should be written
 // Recommended to use extension .ome.tif (required for a pyramidal image)
 // If null, the image will be opened in a viewer
